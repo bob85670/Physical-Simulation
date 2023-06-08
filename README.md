@@ -4,10 +4,11 @@ Rigid body simulation involves modeling and simulating the motion of solid objec
 
 
 # recommend to use Anaconda to manage enviroment       
-$ conda create -n comp3360 python=3.8
-$ conda activate comp3360
-$ conda install numpy scipy
-$ pip install panda3d taichi
+$ conda create -n comp3360 python=3.8       
+$ conda activate comp3360        
+$ conda install numpy scipy      
+$ pip install panda3d taichi       
 
-$ cd ./Rigid_Body_Simulation
-$ python rigid_body_plus.py
+$ cd ./Rigid_Body_Simulation        
+$ python rigid_body_plus.py              
+ 
